@@ -5,8 +5,4 @@ public class Retweet {
         this.origen = origen;
     }
 
-    public boolean esOrigen(Tweet t){
-        return this.origen.equals(t);
-    }
-
 }
